@@ -1,4 +1,4 @@
-World Atlas Web App
+#World Atlas Web App
 A World Atlas Web App built with React JS (Vite) and Tailwind CSS that allows users to explore detailed geographical information about countries, continents, oceans, and major landmarks. The app provides an interactive map along with search, sorting, and filtering features to make exploring the world easier and more informative.
 
 Features
